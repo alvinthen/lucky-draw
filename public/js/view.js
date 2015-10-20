@@ -30,7 +30,7 @@
                                        'width': winHeight
                                    });
             $('.rolling-list li').css({
-                                          'font-size': winHeight/88 + 'em',
+                                          'font-size': winHeight/90 + 'em',
                                           'margin-top': '10px'
                                       });
             $('.mask').css({
